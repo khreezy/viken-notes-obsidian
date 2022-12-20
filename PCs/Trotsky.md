@@ -1,4 +1,0 @@
-### Notes 
-
-- [[Markus]]' familiar
-- 

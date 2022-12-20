@@ -1,0 +1,18 @@
+---
+title: "Viken Session 28"
+tags: []
+---
+
+- [[Fraeyda]] touches the sword [[Talon]] and she feels a low heat
+    - it does NOT feel hot to the touch to [[Eir]]
+- [[Damianna Ulfur]] says that she would come investigate the disturbance in the [[Savalier Woods]] with us
+    - she agrees to come with us and investigate
+- we acquire some healing potions
+- we go to the [[Engwyn]] household and [[Fraeyda]] prepares for her concert
+- the party begins
+    - [[Selphie]] arrives
+    - someone named [[Nym]]  and their parents (3) arrive
+- i am [[Markus]] Lepadoptrin tonight
+- someone named [[Alynthi]] walks in and [[Nym]] immediately goes over to tell 
+- [[Jhaartael]] walks in
+- [[Khiiral]] walks in but is not announced

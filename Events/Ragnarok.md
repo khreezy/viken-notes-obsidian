@@ -1,5 +1,0 @@
-The [[Asgard]]ian gods live with a prophecy about the end of their world. In Ragnarok, the gods will fight their final battle and the world will burn.
-
-### Notes
-
-- The [[Dark Knights]] appear to be attempting to speed along Ragnarok

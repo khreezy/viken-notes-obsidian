@@ -1,0 +1,12 @@
+---
+title: "Viken Session 31"
+tags: []
+---
+
+- at the [[Temple of the Fall]] the earth is broken
+    - [[Temple of the Fall]] is to the north where the river boils
+- "I heard the [[The Endless]] speak to me"
+    - it asked for a command
+    - the [[The Endless]] is "what i must protect"
+        - to keep it closed
+- he looked into the [[The Endless]] and it caused the changes in his body

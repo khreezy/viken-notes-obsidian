@@ -1,0 +1,27 @@
+---
+title: "Viken Session 5"
+tags: []
+---
+
+- more than500 years ago clans of dwarves and gnomes made a pact to share the [[Star Metal Mine]]
+- note that [[Eir]] got that said to go to [[Pasha]] said the same phrase as the deep speech note
+- [[Fraeyda]] heard an armored orc running through the woods
+    - it appeared to be traveling along the road, looking for creatures to ambush
+- the [[Pasha]] apparently told Klarg and co to ambush [[Sildar]]
+- [[Sildar]] was going to meet the wizard [[Lord Albrek]] in [[Berufell]], who he met in [[Rond]]
+- [[Lord Albrek]] was going to try to reopen the mines
+- [[Sildar]] found a map in [[Port Baro]] that showed a map to the [[Star Metal Mine]]
+- the weapon was going to the army
+- Child in [[Berufell]] tells us that some thugs have come into the town
+- [[Toblin Stonehill]]  owns the [[Stonehill Inn]], offered us drinks and room
+- 3 elves in the inn. one older man, one younger man, one prim looking woman
+    - the younger man is [[Ost Delanthan]], who confronts [[Fraeyda]]
+    - [[Elyssa Engwyn]] is going to be in [[Rond]] for the [[Freya Úlfur]]'s birthday. [[Fraeyda]] seems to know who that is?
+    - [[Raer]] and [[Sariel]] are the other two elves
+- Army is getting called back to the west ????
+- The thugs appear to have killed [[Thell Dendrar]] when they were trying to shake him down
+- 500 gold to find the mine
+- probably not worth going to the collapsed entrance to the mines
+    - better to find a different entrance
+- [[Ren Stone]] does not want people to know that his town has been overrun by thugs
+- Headed to the [[Wolf Steel Coster]]

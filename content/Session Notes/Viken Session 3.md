@@ -1,0 +1,20 @@
+---
+title: "Viken Session 3"
+tags: []
+---
+
+- we put [[Baby Basilisk]] to sleep because her eyes started opening
+- [[Bug]] ran into the forest and released [[Baby Basilisk]] by a stream
+- [[Bug]] freed a bear that spoke to him in his mind from a trap
+- [[Dwarf Guy]] was hired by [[Sildar]] to protect him on the road to [[Berufell]]
+- found a path through the forest that [[Sildar]] was dragged through by the goblins
+- the Bear [[Bug]] encountered was probably a fey spirit
+- [[Fraeyda]] almost fell into a pit trap
+- Came across a cave that is presumably the [[Cragmaw Hideout]]
+- letter in goblin
+    - capture the weapon at any cost, deliver it to the [[Star Metal Mine]]
+- back of note was in deep speech
+    - [[Deep Speech]] is an ancient language spoken by few living creatures
+    - [[Undercommon]] is a derivative of [[Deep Speech]]
+    - note says "dark nights give way to brighter days"
+    - curved dagger symbol surrounded by 3 mismatched eyes

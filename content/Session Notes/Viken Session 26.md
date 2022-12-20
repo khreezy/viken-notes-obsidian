@@ -1,0 +1,61 @@
+---
+title: "Viken Session 26"
+tags: []
+---
+
+- we colllect the crystals we need 
+- [[Markus]] knocks on the door in the cave
+- there is illusory magic in the room that i knocked on
+- illusory witch woman who's name is [[Morwen]]
+- [[Morwen]] is not an Elvish name, sounds more like a name of a creature from the [[Feywild]]
+- she knows the name Engwyn
+- [[Morwen]] made a deal with the Engwyn's once
+- i cast detect thoughts and see series of images
+- centuries ago, an Engwyn without the coloring and scales
+- [[Selen Engwyn Sr.]] was the name of the Engwyn who made the deal
+- [[Fraeyda]] asks for power that has been unattainable for any mortals, when the world was ruled by dragons
+- in exchange for [[Morwen]]'s safety and sanctuary, and a place to feed. she feeds on grief and despair
+- the [[Hall of Echoes]] is the place of mourning for the elves, which naturally feeds [[Morwen]]
+- [[Fraeyda]] makes a trek deep into the heart of a swamp land, where an ancient blue dragon that is frozen in muck and time 
+- she performs a ritual to bond herself to the dragon
+- the essences of life of the dragon and [[Fraeyda]] become one
+- she becomes cruel, greedy as opposed to her normal elven self
+- the swamp lands became her lair, changing the swamp land forever
+- her rain of terror kept [[Morwen]] fed
+- [[Morwen]] doesn't know what happened to [[Fraeyda]]
+- eventually the reports of draconic activity diminished and went away
+- swamps are still no longer inhabited
+- the Brekka mountains, the Myrkvior woods rose around the swamp lands
+- [[Damianna Ulfur]] cures [[Bug]]
+- she says she was not welcome in her home and came to the one place that 
+- [[Damianna Ulfur]] is from [[Rond]]
+- her hair is dyed, she's pale, her eyes are an amber color and the same as the queen's
+- she's a princess!
+- [[Damianna Ulfur]] couldn't stay in [[Rond]], she didn't know where she could go that she wouldn't be fund. 
+- 20 years ago, she struck up a friendship with an Elf that she knew from traveling
+- if [[Hel]] calls her, she will go where she is needed
+- the son of [[Freya Úlfur]] and [[King Hrothgar]] died in the war
+- they have a daughter (presumably [[Damianna Ulfur]]?)
+- the lineage of the line runs through the women
+- [[Freya Úlfur]] took the throne in 498 after the untimely death of [[Solveig]]
+- she was the youngest monarch
+- 2 years after she took the throne, the [[Great War]] started
+- [[King Hrothgar]] does the diplomacy and head of state stuff
+- [[Daewen Ulfur]] was a young child when he was killed 
+- their daughter [[Damianna Ulfur]] is still alive...and presumably [[Damianna Ulfur]]? 
+- [[Damianna Ulfur]] was born maybe right when the war ended or imediately following it
+- seen as a sign that the gods were smiling on the kingdom blessing them with a daughter
+- [[Damianna Ulfur]] was the high priestess of the [[Kingdom of Úlfurfold]], the communicator between the [[Aesir]] and the kingdom
+- 18 months ago, [[Damianna Ulfur]] vanished from the public eye
+-   the people that [[Damianna Ulfur]] was serving and speaking had no interest in...
+- the [[Great War]] ended, but not for her mother or the gods
+- it was important that people believed the war ended 
+- before she left, she saw visions from [[Hel]] and the land beyond, [[Niflheim]]. She saw the armies of the dead, their spirits piling thousands deep. she saw fire, death, at scales unimaginable, the destruction of the world itself. 
+- she saw bodies, carcasses being consumed from the inside out
+- when she said what she had seen, they called her mad, and that she was a false prophet
+- the visions got worse, but nobody wanted to hear them. she kept saying the same things to the same people. eventually, they were going to make her stop saying them
+- the elves have listened, but they don't have spirituality so she doesn't know if they believe her.
+- [[Freya Úlfur]]'s response was to send troops west
+- [[Damianna Ulfur]]/[[Damianna Ulfur]] doesn't want the fires to burn at all
+- there's fire in the visions, so we are guessing it is [[Surtur]]
+- she doesn't know if there's some level of cruelty or moral chaos that needs to be reached before something happens
