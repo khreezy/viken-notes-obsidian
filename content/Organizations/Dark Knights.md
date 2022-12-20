@@ -5,9 +5,9 @@ tags: []
 
 ### Notes 
 
-- First encountered when we found a note in the wreckage of the ambushed cart accompanied by [[Sildar]] in [[content/Session Notes/Viken Session 03]]
+- First encountered when we found a note in the wreckage of the ambushed cart accompanied by [[Sildar]] in [[content/Session Notes/Viken Session 3]]
 	- note said "dark nights give way to brighter days" in [[Deep Speech]]
-	- [[Eir]] had seen a note from a person in [[Gullborg]] that said the same phrase, mentioned in [[content/Session Notes/Viken Session 08]]
+	- [[Eir]] had seen a note from a person in [[Gullborg]] that said the same phrase, mentioned in [[content/Session Notes/Viken Session 8]]
 
 ### Goals
 
