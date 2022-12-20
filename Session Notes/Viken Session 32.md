@@ -1,0 +1,31 @@
+- everyone who approaches the pit makes WIS throw and if they fail they look in
+- writing on the back wall
+- symbol written on the throne
+    - one twisted spiral
+    - one triangular jagged thing
+- something carved into a spot on the ceiling
+- necrotic energy is seeped into every inch of the temple
+- [[Eir]] found a fraction of a letter in Dwarvish
+    - a description of the temple
+    - he was fascinated by the pit
+    - tell [[Tabitha]] father was a fool
+- "My Master summons me, my master commands. The time is nigh, the end of my torment draws near. Call me master, command me"
+- [[Fraeyda]] finds an oath
+    - "The Oath of the [[Gatekeepers]]"
+    - Within [[The Endless]] It Lies; Within The Endless It Is Buried. To It We Pledge: You Will Not Rise; We Will Not Fall.
+    - "Within [[The Endless]] it lies, within [[The Endless]] its buried. "
+- there is chronurgy magic here, potentially dialating time
+- the name on the inscription is [[Loki|Ceratos]], the same as the black blade
+- [[Markus]] has a dream sequence
+    - walking through battlefield
+    - sky is crimson
+    - fire on horizon, far away
+    - battle continues
+    - markus tries to walk towards the battle,
+    -  trips and falls into the mud
+    - mud is actually bodies
+    - body grabs my foot
+    - body is my mother, [[Sofia]]
+    - "No, this is not how it happened"
+- [[Eir]] fucking wakes up this huge demon bullshit
+- "I am the right hand of the king, and he has so wanted to meet you"

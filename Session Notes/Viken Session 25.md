@@ -1,0 +1,30 @@
+- [[Bug]]'s wound is still festering and black (looks bad)
+- elves sent for [[Damianna Ulfur]] who is a human
+    - guest of [[Keyleth Siannodel]], been in the city for a few months
+- [[Bug]]'s wound is not an infection
+- tent has emptied in the last two to three minutes
+- a heavy dark shadow is hanging in the corner of the room
+    - shadow moves as i look at it
+- person with pale skin, jet black hair, eyes that glow soft gold, dark cloak
+- puff of mist appears beneath her feet
+- she needs witchhazel and wolfsbane to stabilize,
+- deathcaps and hachmenite crystals to cure 
+- [[Bug]] had dreams of biting, eating people
+[[Damianna Ulfur]] woke [[Bug]] up
+- Born vs Made lycanthropy have different effects
+- stronger, faster, harder to kill, better at tracking
+- but it is a "change of your very soul"
+- [[Hel]] allows [[Damianna Ulfur]] to do her magic (she's a cleric)
+- [[Bug]] has decided to be cured
+- deathcap mushrooms are found in caves
+- hachmenite crystals are phosphorescent and also found in caves
+- [[Fraeyda]] only knows of one cave in [[Tel-Quessir]], at the base of the [[Oaken Heart]], called hte [[Hall of Echoes]]
+- we're heading to the [[Hall of Echoes]]
+- [[Keyleth Siannodel]] made a point of saying that both [[Celestial]] and [[Infernal]] blood is blocked from entering [[Tel-Quessir]]
+- Elves dont' have a system of religious worship, they were around before the gods. The gods arrived with humans
+- [[Bug]] felt the touch of perhaps his wind parent ??? 
+- we're in magical darkness
+- [[Royson]] uses his driftglobe to cast daylight, illuminating a very long hallway
+- in the cneter of the stony area in front of us there is a deep looking pit
+- pink glow coming from the pit
+- six gigantic spiders attack us

@@ -1,0 +1,39 @@
+- we find a secret passageway in [[Elyssa Engwyn]]'s office
+    - magically locked chest
+- [[Selphie]] and [[Nym]] have left the party ????
+    - they're discussing that [[Nym]] is going to spread word of the queen being a werewolf and [[Damianna Ulfur]]'s presence in [[Tel-Quessir]]
+- on top of the pile of papers in the office is notes about movement in various cities over the past couple days
+    - most of the information is information related to the elves
+- elves are being rounded up in [[Kingdom of Úlfurfold]]
+- [[Minister of Mystical Defence]]
+    - if she's ready send her my way, he is growing anxious at the hole in their defences left by the absence of [[Shadowhand]]
+- [[Royson]] sees his name in one of the letters 
+    - I’m very sorry to hear you won’t be joining our most recent venture, Taskhand. I assure you, it promises extraordinary profits for the right investors. I ask only that you keep an open mind regarding the Northern Expedition. Perhaps, if we can prove the values of exploration, you will reconsider the participation of your people. And if the Court of Stars is uninterested in an official capacity, know that your private investment will always be welcome. Guildmaster Royson and I will keep our offer on the table through the end of the season, if you change your mind. - Councilor Snow
+- letter dated nearly 80 years ago
+    - [[Society of Crows]] denies requests for maps through the [[Desolate Straits]]
+- [[Society of Crows]] 
+    - i remember my mothers arguing when i was a boy because [[Ekaterina]] is about to leave and go on a trip, [[Sofia]] is worried for her. [[Ekaterina]] says this is the last job, [[Society of Crows]] will disband after this mission
+- [[Operation Frozen North]]
+    - research missions into the frozen north, funded by [[Elyssa Engwyn]], unsactioned by the Elves
+    - looking for the [[Well of Urd]]
+    - expeditions have not ever returned anything
+    - launched from [[Skrvor]]
+- figures of importance must be involved
+- list of monikers:
+    - [[The Lyre]]
+        - musician? charismatic? present at parties who can gain intelligence
+    - [[The Oil]]
+        - someone with wealth and political power
+    - [[The Spider]]
+        - Pasha? drow woman who is a liason between [[The Myriad]] and [[Dark Knights]]
+    - [[The Bell]]
+    - [[The Warlord]]
+        - leader of raids in [[Liat Peaks]]
+    - [[The Quill]]
+        - must be calm and patient, [[Gimli Assembly]]
+- [[Eir]] strikes a deal with [[Elyssa Engwyn]] and gets the same we list got about the [[Dark Knights]]
+    - [[Pasha]] is of unknown origin, came onto the scene 3 yrs ago, is a smuggler
+    - [[The Myriad]] and [[Dark Knights]] have been close collaborators
+        - [[The Myriad]] operations have ground to a standstill
+        - we could use this to bring some heat on [[Pasha]]? 
+    - [[The Quill]] was not indicated as a member of the [[Gimli Assembly]]

@@ -1,0 +1,4 @@
+### Notes
+
+- Member of the [[Dark Knights]] of unknown identity as of [[Viken Session 35]]
+- Leader of raids in the [[Liat Peaks]]
