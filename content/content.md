@@ -1,6 +1,6 @@
 ---
 tags: [MOC]
-title: "content"
+title: "<% tp.file.folder()%>"
 ---
 
 <%* if (tp.file.title.endsWith(tp.file.folder())) { %>
