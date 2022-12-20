@@ -1,5 +1,0 @@
----
-title: "Great War"
-tags: []
----
-
