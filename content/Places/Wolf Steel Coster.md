@@ -5,6 +5,6 @@ tags: []
 
 ### Notes
 
-- Store in [[Berufell]]
+- Store in [Berufell](content/Places/Berufell.md)
 
 #stores 

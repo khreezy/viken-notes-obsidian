@@ -5,4 +5,4 @@ tags: []
 
 ### Notes
 
-- Governing body of the [[High Elves]] in [[Tel-Quessir]]
+- Governing body of the [High Elves](content/Species/High%20Elves.md) in [Tel-Quessir](content/Places/Tel-Quessir.md)

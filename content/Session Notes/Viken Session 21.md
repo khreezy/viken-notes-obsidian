@@ -3,9 +3,9 @@ title: "Viken Session 21"
 tags: []
 ---
 
-Crocodile man jumps out of the sewer water [[Troglodyte]]
+Crocodile man jumps out of the sewer water [Troglodyte](Troglodyte)
 
-smells like the smell [[Fraeyda]] was smelling
+smells like the smell [Fraeyda](content/PCs/Fraeyda.md) was smelling
 
 rat taht bug found is in a magically protected ball
 

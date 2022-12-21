@@ -5,7 +5,7 @@ tags: []
 
 ### Notes 
 
-- Sort of accompanying ruling organization to [[Freya Úlfur|Queen Freya Úlfur]]
+- Sort of accompanying ruling organization to [Queen Freya Úlfur](content/NPCs/Freya%20%C3%9Alfur.md)
 
 Members:
-- [[Zivan Margolyn]]
+- [Zivan Margolyn](content/NPCs/Zivan%20Margolyn.md)

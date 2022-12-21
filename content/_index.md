@@ -2,7 +2,7 @@
 title: "Viken"
 ---
 
-- [[content/Events/Events]]
+- [Events](content/Events/Events.md)
 - [Languages](content/Languages/Languages.md)
 - [NPCs](content/NPCs/NPCs.md)
 - [Objects](content/Objects/Objects.md)

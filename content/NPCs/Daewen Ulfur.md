@@ -5,7 +5,7 @@ tags: []
 
 ### Notes
 
-- Son of [[Freya Úlfur|Queen Freya Úlfur]] and [[King Hrothgar]]
-- Died during but maybe not in the [[Great War]], was a young child
+- Son of [Queen Freya Úlfur](content/NPCs/Freya%20%C3%9Alfur.md) and [King Hrothgar](content/NPCs/King%20Hrothgar.md)
+- Died during but maybe not in the [Great War](content/Events/Great%20War.md), was a young child
 
 #human #unmet 

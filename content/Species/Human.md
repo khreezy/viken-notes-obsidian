@@ -5,5 +5,5 @@ tags: []
 
 ### Notes 
 
-- Arrived on [[Viken]] 500 years ago
-- [[Aesir]] arrived with them
+- Arrived on [Viken](Viken.md) 500 years ago
+- [Aesir](content/Organizations/Aesir.md) arrived with them

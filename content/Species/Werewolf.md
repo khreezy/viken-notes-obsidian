@@ -10,4 +10,4 @@ tags: []
 
 ### Notable People
 
-- [[Freya Úlfur|Queen Freya Úlfur]]
+- [Queen Freya Úlfur](content/NPCs/Freya%20%C3%9Alfur.md)

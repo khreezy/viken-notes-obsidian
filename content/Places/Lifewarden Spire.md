@@ -5,5 +5,5 @@ tags: []
 
 ### Notes
 
-- One of the trees in [[Tel-Quessir]] 
-- Personal home of [[Keyleth Siannodel]]
+- One of the trees in [Tel-Quessir](content/Places/Tel-Quessir.md) 
+- Personal home of [Keyleth Siannodel](content/NPCs/Keyleth%20Siannodel.md)

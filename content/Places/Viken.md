@@ -3,7 +3,7 @@ title: "Viken"
 tags: []
 ---
 
-![[Viken_Map.png]]
+![Viken_Map](content/Places/Viken_Map.png)
 
 # History
 

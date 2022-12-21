@@ -5,5 +5,5 @@ tags: []
 
 ### Notes 
 
-- [[Markus]]' familiar
+- [Markus](content/PCs/Markus.md)' familiar
  

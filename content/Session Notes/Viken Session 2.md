@@ -3,30 +3,30 @@ title: "Viken Session 2"
 tags: []
 ---
 
-- Started off by deciding to stuff the [[Baby Basilisk]] in [[Bug]]'s bag and taking it with us
-- Escaped notice from the guards by [[Eir]] using presitidigitation and me using minor illusion to distract them while we ran out
-- went to [[Sofia]] and [[Ekaterina]]'s shop, where Ekaterina advised us to finish our business with [[Pasha]]
-- Went and dropped off the box of silvered weapons with [[Pasha]]
-- [[Eir]] got some sort of magical broach as well as the gold in exchange
-- Stayed the night at the [[Sootswallow Lodge]]
-- In the morning, [[Fraeyda]] and I journeyed back to [[Ekaterina]]'s shop
-- Before we left, [[Bug]] asked us to find a book on taking care of the [[Baby Basilisk]]
-- When we arrived, [[Ekaterina]] asked us if we could look into her employee [[Sildar]]'s absence
-    - she sent him to fetch an item from [[Berufell]] but he should have arrived two days ago and has not been seen since
+- Started off by deciding to stuff the [Baby Basilisk](content/NPCs/Baby%20Basilisk.md) in [Bug](content/PCs/Bug.md)'s bag and taking it with us
+- Escaped notice from the guards by [Eir](content/PCs/Eir.md) using presitidigitation and me using minor illusion to distract them while we ran out
+- went to [Sofia](content/NPCs/Sofia.md) and [Ekaterina](content/NPCs/Ekaterina.md)'s shop, where Ekaterina advised us to finish our business with [Pasha](content/NPCs/Pasha.md)
+- Went and dropped off the box of silvered weapons with [Pasha](content/NPCs/Pasha.md)
+- [Eir](content/PCs/Eir.md) got some sort of magical broach as well as the gold in exchange
+- Stayed the night at the [Sootswallow Lodge](content/Places/Sootswallow%20Lodge.md)
+- In the morning, [Fraeyda](content/PCs/Fraeyda.md) and I journeyed back to [Ekaterina](content/NPCs/Ekaterina.md)'s shop
+- Before we left, [Bug](content/PCs/Bug.md) asked us to find a book on taking care of the [Baby Basilisk](content/NPCs/Baby%20Basilisk.md)
+- When we arrived, [Ekaterina](content/NPCs/Ekaterina.md) asked us if we could look into her employee [Sildar](content/NPCs/Sildar.md)'s absence
+    - she sent him to fetch an item from [Berufell](content/Places/Berufell.md) but he should have arrived two days ago and has not been seen since
 - I bought a 100g worth of magical ink/paper and a scroll of identify
-- Talked to my mom, [[Sofia]], who I haven't seen in 40 years. promised i would be back soon
+- Talked to my mom, [Sofia](content/NPCs/Sofia.md), who I haven't seen in 40 years. promised i would be back soon
 - We left to meet the others at the south gate of Ifyr
-- On the way, we stopped at [[The Dusty Tome]], where we bought [[Volo's Guide to Monsters]] for [[Bug]]
-- Upon arriving at the gate, it became clear that it was one of the more heavily guarded gates because it is the closest to the [[Black Sands Alliance]]
+- On the way, we stopped at [The Dusty Tome](content/Places/The%20Dusty%20Tome.md), where we bought [Volo's Guide to Monsters](content/Objects/Volo's%20Guide%20to%20Monsters.md) for [Bug](content/PCs/Bug.md)
+- Upon arriving at the gate, it became clear that it was one of the more heavily guarded gates because it is the closest to the [Black Sands Alliance](content/Places/Black%20Sands%20Alliance.md)
 - I attempted to cast a poorly planned illusion to give the appearance of a regular, open bag when we were going through the gate
-- [[Eir]] had to come in and save be my charming the guard and distracting him into letting me through
-- After making our way out of the city, we decided to skirt around and head towards [[Berufell]]
+- [Eir](content/PCs/Eir.md) had to come in and save be my charming the guard and distracting him into letting me through
+- After making our way out of the city, we decided to skirt around and head towards [Berufell](content/Places/Berufell.md)
 - The guards spotted us skirting the city and we were noted
-- We traveled for the rest of the day until coming upon a overturned cart with dead horses and a sign for [[Ekaterina]]'s Esoterica on it
-    - clearly this was [[Sildar]]'s cart
+- We traveled for the rest of the day until coming upon a overturned cart with dead horses and a sign for [Ekaterina](content/NPCs/Ekaterina.md)'s Esoterica on it
+    - clearly this was [Sildar](content/NPCs/Sildar.md)'s cart
 - We searched the cart but were then attacked by a few goblins
-- We managed to kill the goblins easily, with [[Bug]] absolutely massacring one of them
-- During the fight, [[Fraeyda]] healed a Dwarf who was unconscious in the wreckage, who proceeded to nut check a goblin to death
-- Also during the fight, [[Eir]] caused a small fire in the woods. This seemed to anger [[Bug]] who then attacked [[Royson]]
-- After the fight, the [[Baby Basilisk]] was squirming a lot and we unsuccessfully attempted to calm it down, whereupon it bit [[Bug]]'s finger and has just escaped the bag
-    - we are planning on releasing the [[Baby Basilisk]] somewhere near [[Berufell]]
+- We managed to kill the goblins easily, with [Bug](content/PCs/Bug.md) absolutely massacring one of them
+- During the fight, [Fraeyda](content/PCs/Fraeyda.md) healed a Dwarf who was unconscious in the wreckage, who proceeded to nut check a goblin to death
+- Also during the fight, [Eir](content/PCs/Eir.md) caused a small fire in the woods. This seemed to anger [Bug](content/PCs/Bug.md) who then attacked [Royson](content/PCs/Royson.md)
+- After the fight, the [Baby Basilisk](content/NPCs/Baby%20Basilisk.md) was squirming a lot and we unsuccessfully attempted to calm it down, whereupon it bit [Bug](content/PCs/Bug.md)'s finger and has just escaped the bag
+    - we are planning on releasing the [Baby Basilisk](content/NPCs/Baby%20Basilisk.md) somewhere near [Berufell](content/Places/Berufell.md)

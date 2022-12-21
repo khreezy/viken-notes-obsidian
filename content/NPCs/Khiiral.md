@@ -4,9 +4,9 @@ tags: []
 ---
 
 ### Notes
-- Friend of [[Fraeyda]]
+- Friend of [Fraeyda](content/PCs/Fraeyda.md)
 - Graviturgist/Chronurgist
 - Wizard
-- Son of the [[Shadowhand]]
+- Son of the [Shadowhand](Shadowhand)
 
 #wizard 

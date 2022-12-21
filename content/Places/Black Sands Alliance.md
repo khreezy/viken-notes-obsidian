@@ -23,8 +23,8 @@ Clovis Concord.
 
 ## Major Cites
 
-- [[Gullborg]]
-- [[Felderwin]]
-- [[Port Baro]]
+- [Gullborg](content/Places/Gullborg.md)
+- [Felderwin](content/Places/Felderwin.md)
+- [Port Baro](content/Places/Port%20Baro.md)
 
 #states #unvisited 

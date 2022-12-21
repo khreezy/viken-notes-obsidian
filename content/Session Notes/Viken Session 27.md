@@ -3,20 +3,20 @@ title: "Viken Session 27"
 tags: []
 ---
 
-- we meet [[Fraeyda]]'s friend [[Selphie]], who agrees to take us into the magic school/library ([[Isilme]])
-- [[Selphie]] frees [[Four-toe]] by dispelling the magic on the mall
-- [[Selphie]] says she will introduce me to [[Khiiral]], who may be able to teach me gravity magic
-- thre's a statue of [[Elmar Trabella]]  in the center that is massive and gold
-- [[Selphie]] lets us into the library
-- [[Eir]] trying to find info about [[Loki]]
-    - [[Eir]] finds some information about other accounts of contacts from entities from other planes, in the form of dreams, items going missing, people traveling in forests going missing without any word. any creature that has the ability to communicate across planes would be a very powerful creature
+- we meet [Fraeyda](content/PCs/Fraeyda.md)'s friend [Selphie](content/NPCs/Selphie.md), who agrees to take us into the magic school/library ([Isilme](content/Places/Isilme.md))
+- [Selphie](content/NPCs/Selphie.md) frees [Four-toe](content/NPCs/Four-toe.md) by dispelling the magic on the mall
+- [Selphie](content/NPCs/Selphie.md) says she will introduce me to [Khiiral](content/NPCs/Khiiral.md), who may be able to teach me gravity magic
+- thre's a statue of [Elmar Trabella](content/NPCs/Elmar%20Trabella.md)  in the center that is massive and gold
+- [Selphie](content/NPCs/Selphie.md) lets us into the library
+- [Eir](content/PCs/Eir.md) trying to find info about [Loki](content/Gods/Loki.md)
+    - [Eir](content/PCs/Eir.md) finds some information about other accounts of contacts from entities from other planes, in the form of dreams, items going missing, people traveling in forests going missing without any word. any creature that has the ability to communicate across planes would be a very powerful creature
     - in order for beings to communicate across the planes you can't just shout across the planes, you have to have some knowledge or connection to a person/creature/being to contact them 
     - there are many different planes, some of them are more "scary" than others.
     - there are elemental planes, feywild, shadowfell, aasgard, niflheim, 
     - the abyss, the astral sea
-        - magic is looser and more free and doesn't conform to the same rules as the [[Midgard]]
+        - magic is looser and more free and doesn't conform to the same rules as the [Midgard](content/Places/Midgard.md)
         - often been theories that that amount of raw potential must form and coalesce around some power
-- [[Markus]] is looking for info around [[Luckbringer]] and his father 
+- [Markus](content/PCs/Markus.md) is looking for info around [Luckbringer](content/Objects/Luckbringer.md) and his father 
     - looks in the histories of great heroes
     - find records of bows that shoot arrows that cause explosions of trees and snow
     - stories of spears that always strike true
@@ -24,63 +24,63 @@ tags: []
     - even though the elves are not a religious people, they're aware of the gods and their existence
         - in ages past, it was said that the gods each have a magical item that is crafted for the god themselves to use 
         - every once in a while, a favored champion claims that a weapon is a gift from the gods
-        - [[Luckbringer]] is a light blade, not one of immense power like the hammer or spear, but one that brings immense luck to someone who wields it. only one individual has ever touched it, but there is no written record of the person as if they were struck from history
+        - [Luckbringer](content/Objects/Luckbringer.md) is a light blade, not one of immense power like the hammer or spear, but one that brings immense luck to someone who wields it. only one individual has ever touched it, but there is no written record of the person as if they were struck from history
     - in terms of the ledgers, there are records back 200 years. notes of which merchants were traveling to which cities
-        - there are many individuals that traveled to Ifyr. there are 20-30 names of men that were in [[Ifyr]] around when my mother met my father
-- [[Fraeyda]] was looking for information about blue dragons
+        - there are many individuals that traveled to Ifyr. there are 20-30 names of men that were in [Ifyr](content/Places/Ifyr.md) around when my mother met my father
+- [Fraeyda](content/PCs/Fraeyda.md) was looking for information about blue dragons
     - blue dragons breathe lightning, are particularly ferocious, immune to lightning
     - notorious for their greed, terrible tempers
     - territorial to a fault, very proud and cannot handle insults
         - warnings to defer completely and not insult them in any way
     - very intelligent, like living in more arid places
     - natural draconic enemies are brass dragons
-    - dragons have not been present or encountered on [[Viken]] have not been encountered in centuries
-    - the last notable dragon was a blue dragon named [[Zaeygryn]]
-        - lived in what is now known as the [[Myry Swamp]], tormenting the villages around until a party of adventurers went and presumably slew each otherf
-    - legends say that [[Zaeygryn]] grew very close to a humanoid
-    - one of the individuals in the adventuring party was a young warrior named [[Avor Wolfkiss]], she wielded a greatsword named [[Talon]] 
-    - nobody goes into the [[Myry Swamp]] as a result of the ancestral memory of [[Zaeygryn]]'s rule
-    - body of [[Zaeygryn]] was never found
+    - dragons have not been present or encountered on [Viken](Viken.md) have not been encountered in centuries
+    - the last notable dragon was a blue dragon named [Zaeygryn](content/NPCs/Zaeygryn.md)
+        - lived in what is now known as the [Myry Swamp](content/Places/Myry%20Swamp.md), tormenting the villages around until a party of adventurers went and presumably slew each otherf
+    - legends say that [Zaeygryn](content/NPCs/Zaeygryn.md) grew very close to a humanoid
+    - one of the individuals in the adventuring party was a young warrior named [Avor Wolfkiss](content/NPCs/Avor%20Wolfkiss.md), she wielded a greatsword named [Talon](content/Objects/Talon.md) 
+    - nobody goes into the [Myry Swamp](content/Places/Myry%20Swamp.md) as a result of the ancestral memory of [Zaeygryn](content/NPCs/Zaeygryn.md)'s rule
+    - body of [Zaeygryn](content/NPCs/Zaeygryn.md) was never found
     - every Engwyn woman has only one child, a daughter
-    - [[Fraeyda]]'s father is essentially a commoner
-    - [[Fraeyda]]'s great grandmother is [[Selen Engwyn Sr.]]
-        - [[Selen Engwyn Sr.]]'s death date has a question mark around it
-    - [[Eliyen Engwyn]] had [[Elyssa Engwyn]] take over the role from her when [[Elyssa Engwyn]] was around 250
-    - [[Eliyen Engwyn]]'s husband died when [[Fraeyda]] was very young
-    - once the duties of the [[Taskhand]] are complete, she steps away completely
-    - she HATES [[Faeranduil Engwyn]] and refuses to address him when they are in the same room
-    - the supposed death of [[Selen Engwyn Sr.]] was about 450 years ago
-- [[Royson]] is looking for information on [[Councilor Yorden Snow]] and the [[Royson family]]
-    - has been councilor of [[Kvikvik]] for ~30 years
+    - [Fraeyda](content/PCs/Fraeyda.md)'s father is essentially a commoner
+    - [Fraeyda](content/PCs/Fraeyda.md)'s great grandmother is [Selen Engwyn Sr.](content/NPCs/Selen%20Engwyn%20Sr..md)
+        - [Selen Engwyn Sr.](content/NPCs/Selen%20Engwyn%20Sr..md)'s death date has a question mark around it
+    - [Eliyen Engwyn](content/NPCs/Eliyen%20Engwyn.md) had [Elyssa Engwyn](content/NPCs/Elyssa%20Engwyn.md) take over the role from her when [Elyssa Engwyn](content/NPCs/Elyssa%20Engwyn.md) was around 250
+    - [Eliyen Engwyn](content/NPCs/Eliyen%20Engwyn.md)'s husband died when [Fraeyda](content/PCs/Fraeyda.md) was very young
+    - once the duties of the [Taskhand](Taskhand) are complete, she steps away completely
+    - she HATES [Faeranduil Engwyn](content/NPCs/Faeranduil%20Engwyn.md) and refuses to address him when they are in the same room
+    - the supposed death of [Selen Engwyn Sr.](content/NPCs/Selen%20Engwyn%20Sr..md) was about 450 years ago
+- [Royson](content/PCs/Royson.md) is looking for information on [Councilor Yorden Snow](content/NPCs/Councilor%20Yorden%20Snow.md) and the [Royson family](Royson%20family)
+    - has been councilor of [Kvikvik](content/Places/Kvikvik.md) for ~30 years
     - family was rich merchants
-    - governs the many guilds and merchants that drive the [[Kvikvik]] economy
+    - governs the many guilds and merchants that drive the [Kvikvik](content/Places/Kvikvik.md) economy
     - extremely ambitious and interests are always of monetary variety
     - anything that would be hard to know about him
-    - [[Guildmaster Harold Royson]] was recently appointed to headmaster of the guild of merchants
+    - [Guildmaster Harold Royson](content/NPCs/Guildmaster%20Harold%20Royson.md) was recently appointed to headmaster of the guild of merchants
     - no record of his re-marriage? 
-    - records of [[Royson]]'s brother being high ranking in his classes
-    - [[Royson]] is never mentioned as graduating
-    - Gregory Royson has taken over running 2 of the ports in [[Kvikvik]]
-- [[Bug]] is looking for information about [[Myrkvior Woods]]
-    - [[Myrkvior Woods]] were threatened by the armies of [[Surtur]]
-    - [[Wood Elves]] retreated into the [[Feywild]]
-    - [[Kingdom of Úlfurfold]] is clearcutting portions of the woods
+    - records of [Royson](content/PCs/Royson.md)'s brother being high ranking in his classes
+    - [Royson](content/PCs/Royson.md) is never mentioned as graduating
+    - Gregory Royson has taken over running 2 of the ports in [Kvikvik](content/Places/Kvikvik.md)
+- [Bug](content/PCs/Bug.md) is looking for information about [Myrkvior Woods](content/Places/Myrkvior%20Woods.md)
+    - [Myrkvior Woods](content/Places/Myrkvior%20Woods.md) were threatened by the armies of [Surtur](content/Gods/Surtur.md)
+    - [Wood Elves](content/Organizations/Wood%20Elves.md) retreated into the [Feywild](content/Places/Feywild.md)
+    - [Kingdom of Úlfurfold](content/Places/Kingdom%20of%20%C3%9Alfurfold.md) is clearcutting portions of the woods
     - there are records of disturbances in these areas, squadrons going missing and being found dead with the life drained from them 
-    - ancient parts of the continent of [[Viken]] have more power
-    - the [[Myrkvior Woods]] and [[Savalier Woods]] used to be one connected woodland
-    - the [[High Elves]] are part of the woods but not owners of the woods
-    - [[Wood Elves]] feel similarly about the [[Myrkvior Woods]]
+    - ancient parts of the continent of [Viken](Viken.md) have more power
+    - the [Myrkvior Woods](content/Places/Myrkvior%20Woods.md) and [Savalier Woods](content/Places/Savalier%20Woods.md) used to be one connected woodland
+    - the [High Elves](content/Species/High%20Elves.md) are part of the woods but not owners of the woods
+    - [Wood Elves](content/Organizations/Wood%20Elves.md) feel similarly about the [Myrkvior Woods](content/Places/Myrkvior%20Woods.md)
     - before humanity, the land was untamed and raw. there were primordial forces/beings that acted on the area
     - smaller primordial beings were able to hide themselves in the sound of a bubbling creek, the light that shines through the trees, the breeze that is always warm when it blows
-    - no records of creatures that have been adoped by the primordial forces like [[Bug]]
-    - the greater forces were driven out of the continent by humanity and the gods ([[Aesir]])
+    - no records of creatures that have been adoped by the primordial forces like [Bug](content/PCs/Bug.md)
+    - the greater forces were driven out of the continent by humanity and the gods ([Aesir](content/Organizations/Aesir.md))
     - not much can frighten a being of elemental power, so there must have been something they were afraid of or were driven out by something power
-- [[Selphie]] was looking for weather disturbances and stuff
-    - she notes the disturbances around the edge of the [[Myrkvior Woods]] and the disappearance of some features of the woods
+- [Selphie](content/NPCs/Selphie.md) was looking for weather disturbances and stuff
+    - she notes the disturbances around the edge of the [Myrkvior Woods](content/Places/Myrkvior%20Woods.md) and the disappearance of some features of the woods
         - no birds singing
         - streams run warm instead of cold
     - the desolate straits that separate the northernmost part of the continent have been tempestuous 
-    - it didn't snow at all in the [[Black Sands Alliance]] this past winter, it was too warm
-    - there's a section of the [[Savalier Woods]] that has overgrown with vines, invasive plant species  and become completely untraversable
+    - it didn't snow at all in the [Black Sands Alliance](content/Places/Black%20Sands%20Alliance.md) this past winter, it was too warm
+    - there's a section of the [Savalier Woods](content/Places/Savalier%20Woods.md) that has overgrown with vines, invasive plant species  and become completely untraversable
         - the forest keeper has been concerned with this
-    - rockslides in the [[Brekka Mountains]]
+    - rockslides in the [Brekka Mountains](content/Places/Brekka%20Mountains.md)

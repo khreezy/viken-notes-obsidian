@@ -5,9 +5,9 @@ aliases: ['Anna', 'Ana']
 ---
 
 ### Notes
-- Daughter of [[Freya Úlfur|Queen Freya Úlfur]]
+- Daughter of [Queen Freya Úlfur](content/NPCs/Freya%20%C3%9Alfur.md)
 - High priestess of the human gods
-- priestess of [[Hel]]
-- Apparently not welcome in the [[Kingdom of Úlfurfold]] right now
+- priestess of [Hel](content/Gods/Hel.md)
+- Apparently not welcome in the [Kingdom of Úlfurfold](content/Places/Kingdom%20of%20%C3%9Alfurfold.md) right now
 
 #human 

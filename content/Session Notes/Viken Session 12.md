@@ -3,11 +3,11 @@ title: "Viken Session 12"
 tags: []
 ---
 
-[[Lord Albrek]] was trained in the [[Soultress Academy]]
+[Lord Albrek](content/NPCs/Lord%20Albrek.md) was trained in the [Soultress Academy](content/Places/Soultress%20Academy.md)
 
-one of the reasons [[Sildar]] came to [[Berufell]] was to find and a [[Lord Albrek]]
+one of the reasons [Sildar](content/NPCs/Sildar.md) came to [Berufell](content/Places/Berufell.md) was to find and a [Lord Albrek](content/NPCs/Lord%20Albrek.md)
 
-[[Trotsky]] investigated a mysterious shadow at the bottom of the crevasse. It appeared to look at her and then melted back into the wall
+[Trotsky](content/PCs/Trotsky.md) investigated a mysterious shadow at the bottom of the crevasse. It appeared to look at her and then melted back into the wall
 
 30gp 50sp potion of healing off belmont
 
@@ -17,6 +17,6 @@ some of the bodies at the bottom of the ravine are way older than they should be
 
 160sp 120gp 5 malachite 15gp ea 2 healing potions 1 scroll of feather fall 1 ornate sword inscribed with the word talon. wired in the the shape of a bird of prey
 
-sword was [[Talon]]
+sword was [Talon](content/Objects/Talon.md)
 
 ####

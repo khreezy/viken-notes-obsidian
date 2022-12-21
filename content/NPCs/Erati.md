@@ -5,5 +5,5 @@ tags: []
 
 ### Notes
 
-- [[Markus]] fought this person in a festival match in [[Rond]]
-- appears to be follower of [[Sif]]
+- [Markus](content/PCs/Markus.md) fought this person in a festival match in [Rond](content/Places/Rond.md)
+- appears to be follower of [Sif](content/Gods/Sif.md)

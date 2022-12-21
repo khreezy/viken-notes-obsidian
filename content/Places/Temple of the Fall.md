@@ -5,7 +5,7 @@ tags: []
 
 ### Notes
 
-- Temple contains [[The Endless]]
-- Kept by the [[Gatekeepers]]
+- Temple contains [The Endless](content/Objects/The%20Endless.md)
+- Kept by the [Gatekeepers](content/Organizations/Gatekeepers.md)
 
 #dungeons 

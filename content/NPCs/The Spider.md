@@ -5,5 +5,5 @@ tags: []
 
 ### Notes
 
-- Probalby [[Pasha]]
+- Probalby [Pasha](content/NPCs/Pasha.md)
 

@@ -9,40 +9,40 @@ tags: []
     - looks like its built into a small basement
     - door bursts open and elvish guards come into the room with weapons at the ready, but stop when they see the taskhand
 - apparently we have to speak to the elvish queen
-    - we're in the [[Savalier Woods]]???? 
-    - [[Elyssa Engwyn]] is shaken
-- we're in [[Tel-Quessir]]
-- [[Bug]] does not look good
-    - [[Fraeyda]] tries to cast lesser restoration on him, but the spell doesn't work because he was cursed
+    - we're in the [Savalier Woods](content/Places/Savalier%20Woods.md)???? 
+    - [Elyssa Engwyn](content/NPCs/Elyssa%20Engwyn.md) is shaken
+- we're in [Tel-Quessir](content/Places/Tel-Quessir.md)
+- [Bug](content/PCs/Bug.md) does not look good
+    - [Fraeyda](content/PCs/Fraeyda.md) tries to cast lesser restoration on him, but the spell doesn't work because he was cursed
     - he does stop seizing though, unconscious
-    - [[Bug]] was taken to the infirmary 
-- we're in the [[Mystic Spire]], the tip of the very tallest tree in [[Tel-Quessir]]. This is where the [[Court of Stars]] does its governing from
-    - only place in [[Tel-Quessir]] where you can see the stars
+    - [Bug](content/PCs/Bug.md) was taken to the infirmary 
+- we're in the [Mystic Spire](content/Places/Mystic%20Spire.md), the tip of the very tallest tree in [Tel-Quessir](content/Places/Tel-Quessir.md). This is where the [Court of Stars](content/Organizations/Court%20of%20Stars.md) does its governing from
+    - only place in [Tel-Quessir](content/Places/Tel-Quessir.md) where you can see the stars
 - globes of light drift arond the city
-- we're heading to the [[Lifewarden Spire]] to seek an audience with the queen
-    - [[Keyleth Siannodel|Queen Keyleth Siannodel]]'s personal home
+- we're heading to the [Lifewarden Spire](content/Places/Lifewarden%20Spire.md) to seek an audience with the queen
+    - [Queen Keyleth Siannodel](content/NPCs/Keyleth%20Siannodel.md)'s personal home
 - we pass through a shimmering blue field
-- we can see [[Isilme]], the school of magic
-- [[Elyssa Engwyn]] was NOT surprised by [[Freya Úlfur]] being a werewolf
+- we can see [Isilme](content/Places/Isilme.md), the school of magic
+- [Elyssa Engwyn](content/NPCs/Elyssa%20Engwyn.md) was NOT surprised by [Freya Úlfur](content/NPCs/Freya%20%C3%9Alfur.md) being a werewolf
 - to the right of the throne is an elvish woman with dark skin and dark eyes
     - dressed in very ornate heavy armor and a greatsword
         - armor has a symbol of a star on the chest
-    - [[Quana Krin]], the Dusk Captain
+    - [Quana Krin](content/NPCs/Quana%20Krin.md), the Dusk Captain
 - queen has light brown chocolatey skin
     - most of her hair is grey
     - face is etched in soft wrinkle lines
     - circling above her head are five stars
-    - [[Keyleth Siannodel]]
+    - [Keyleth Siannodel](content/NPCs/Keyleth%20Siannodel.md)
     - voice of the ancient growth
-- [[Elyssa Engwyn]] hasn't talked to [[Raer]] since arriving in [[Rond]]
-    - [[Raer]] missed a dinner because he had "tummy issues"
-- [[Elyssa Engwyn]] knows the [[Dark Knights]] 
+- [Elyssa Engwyn](content/NPCs/Elyssa%20Engwyn.md) hasn't talked to [Raer](content/NPCs/Raer.md) since arriving in [Rond](content/Places/Rond.md)
+    - [Raer](content/NPCs/Raer.md) missed a dinner because he had "tummy issues"
+- [Elyssa Engwyn](content/NPCs/Elyssa%20Engwyn.md) knows the [Dark Knights](content/Organizations/Dark%20Knights.md) 
     - seems to find them impossible to track or trace
-- There are wards around [[Tel-Quessir]] that keep certain beings, including Tieflings, out of the city
-- [[Keyleth Siannodel]] seems to catch here eyes on [[Eir]]'s broach
-- [[Eir]]'s broach has a tracking spell 
+- There are wards around [Tel-Quessir](content/Places/Tel-Quessir.md) that keep certain beings, including Tieflings, out of the city
+- [Keyleth Siannodel](content/NPCs/Keyleth%20Siannodel.md) seems to catch here eyes on [Eir](content/PCs/Eir.md)'s broach
+- [Eir](content/PCs/Eir.md)'s broach has a tracking spell 
 - the wards only keep out fiendish and celestial heritage
-- [[Sven Normanson]] is the name of the person that gave [[Eir]] [[Pasha]]'s name 
-- [[Markus]] knows the name [[Normanson]], it is the name of the Martinet of [[Gulborg]]
-- [[Normanson]] family owns theaters and patron of the arts type stuff
+- [Sven Normanson](content/NPCs/Sven%20Normanson.md) is the name of the person that gave [Eir](content/PCs/Eir.md) [Pasha](content/NPCs/Pasha.md)'s name 
+- [Markus](content/PCs/Markus.md) knows the name [Normanson](Normanson), it is the name of the Martinet of [Gulborg](Gulborg)
+- [Normanson](Normanson) family owns theaters and patron of the arts type stuff
 

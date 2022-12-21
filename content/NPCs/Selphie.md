@@ -5,4 +5,4 @@ tags: []
 
 ### Notes
 
-- Friend/lover of [[Fraeyda]]
+- Friend/lover of [Fraeyda](content/PCs/Fraeyda.md)

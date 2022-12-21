@@ -5,12 +5,12 @@ tags: []
 
 ### Notes
 
-- Realm of [[Fey]] creatures
-- [[High Elves]] and [[Wood Elves]] originated here
-- [[Shadowhand]] currently trapped here as of [[content/Session Notes/Viken Session 35]]
+- Realm of [Fey](Fey) creatures
+- [High Elves](content/Species/High%20Elves.md) and [Wood Elves](content/Organizations/Wood%20Elves.md) originated here
+- [Shadowhand](Shadowhand) currently trapped here as of [Viken Session 35](content/Session%20Notes/Viken%20Session%2035.md)
 
 ### Known Entrances
 
-- Near [[Tel-Quessir]]
+- Near [Tel-Quessir](content/Places/Tel-Quessir.md)
 
 #planes #unvisited 

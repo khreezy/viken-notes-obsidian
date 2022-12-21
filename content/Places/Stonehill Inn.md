@@ -5,6 +5,6 @@ tags: []
 
 ### Notes
 
-- Inn we stayed at while in [[Berufell]]
+- Inn we stayed at while in [Berufell](content/Places/Berufell.md)
 
 #inns #bars 

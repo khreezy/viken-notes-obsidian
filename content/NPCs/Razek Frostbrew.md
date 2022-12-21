@@ -7,5 +7,5 @@ tags: []
 
 ### Notes
 
-- Travelling clothes salesperson who we met in [[Rond]]
-- sympathizes with the [[SIMPS]]
+- Travelling clothes salesperson who we met in [Rond](content/Places/Rond.md)
+- sympathizes with the [SIMPS](content/Organizations/SIMPS.md)

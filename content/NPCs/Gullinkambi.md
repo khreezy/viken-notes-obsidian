@@ -6,6 +6,6 @@ aliases: ['Golden Comb']
 
 ### Notes 
 
-- Rooster in [[Asgard]]
+- Rooster in [Asgard](content/Places/Asgard.md)
 
 #unmet 

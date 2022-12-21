@@ -6,6 +6,6 @@ aliases: ['Guildmaster Royson']
 
 ### Notes
 
-- Father of [[Royson]] ?
+- Father of [Royson](content/PCs/Royson.md) ?
 
 #unmet 

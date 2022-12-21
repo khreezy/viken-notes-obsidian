@@ -5,6 +5,6 @@ tags: []
 
 ### Notes 
 
-- Home of [[Bug]]
+- Home of [Bug](content/PCs/Bug.md)
 
 #regions #unvisited 

@@ -20,18 +20,18 @@ cool and lovely.
 
 ### Notable People
 
-- [[Freya Úlfur|Queen Freya Úlfur]]
-- [[King Hrothgar]]
+- [Queen Freya Úlfur](content/NPCs/Freya%20%C3%9Alfur.md)
+- [King Hrothgar](content/NPCs/King%20Hrothgar.md)
 
 ### Notable Organizations
 
-- [[Gimli Assembly]]
-- [[Dark Knights]]
+- [Gimli Assembly](content/Organizations/Gimli%20Assembly.md)
+- [Dark Knights](content/Organizations/Dark%20Knights.md)
 
 ### Stores & Inns
 
-- [[The Cock's Crow]]
-- [[Runes and Relics]]
-- [[Boobles and Toobs]]
+- [The Cock's Crow](content/Places/The%20Cock's%20Crow.md)
+- [Runes and Relics](content/Places/Runes%20and%20Relics.md)
+- [Boobles and Toobs](content/Places/Boobles%20and%20Toobs.md)
 
 #cities

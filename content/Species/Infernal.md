@@ -5,4 +5,4 @@ tags: []
 
 ### Notes
 
-- Includes [[Tiefling]], [[Devils]], [[Fiends]], etc.
+- Includes [Tiefling](content/Species/Tiefling.md), [Devils](Devils), [Fiends](Fiends), etc.

@@ -5,7 +5,7 @@ tags: []
 
 ### Notes
 
-- Husband of [[Freya Úlfur|Queen Freya Úlfur]]
-- Father of [[Damianna Ulfur]]
+- Husband of [Queen Freya Úlfur](content/NPCs/Freya%20%C3%9Alfur.md)
+- Father of [Damianna Ulfur](content/NPCs/Damianna%20Ulfur.md)
 
 #unmet 

@@ -5,15 +5,15 @@ tags: []
 
 ### Notes
 
-- Great Grandmother of [[Fraeyda]]
-- Grandmother of [[Elyssa Engwyn]]
-- Mother of [[Eliyen Engwyn]]
-- Former [[Taskhand]]
-- Ancestor that formed the bond with [[Zaeygryn]]
+- Great Grandmother of [Fraeyda](content/PCs/Fraeyda.md)
+- Grandmother of [Elyssa Engwyn](content/NPCs/Elyssa%20Engwyn.md)
+- Mother of [Eliyen Engwyn](content/NPCs/Eliyen%20Engwyn.md)
+- Former [Taskhand](Taskhand)
+- Ancestor that formed the bond with [Zaeygryn](content/NPCs/Zaeygryn.md)
 
 ### Notes 
 
-- Ancestor of [[Fraeyda]]
+- Ancestor of [Fraeyda](content/PCs/Fraeyda.md)
 - Unclear if she ever died
 
 #unmet 

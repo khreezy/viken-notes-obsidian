@@ -5,7 +5,7 @@ tags: []
 
 ### Notes
 
-- [[Nym]] told her the secret that [[Damianna Ulfur]] was in [[Tel-Quessir]]
+- [Nym](content/NPCs/Nym.md) told her the secret that [Damianna Ulfur](content/NPCs/Damianna%20Ulfur.md) was in [Tel-Quessir](content/Places/Tel-Quessir.md)
 - Not sure who this is besides that
 
 #unmet 

@@ -10,18 +10,18 @@ tags: []
     - one triangular jagged thing
 - something carved into a spot on the ceiling
 - necrotic energy is seeped into every inch of the temple
-- [[Eir]] found a fraction of a letter in Dwarvish
+- [Eir](content/PCs/Eir.md) found a fraction of a letter in Dwarvish
     - a description of the temple
     - he was fascinated by the pit
-    - tell [[Tabitha]] father was a fool
+    - tell [Tabitha](content/NPCs/Tabitha.md) father was a fool
 - "My Master summons me, my master commands. The time is nigh, the end of my torment draws near. Call me master, command me"
-- [[Fraeyda]] finds an oath
-    - "The Oath of the [[Gatekeepers]]"
-    - Within [[The Endless]] It Lies; Within The Endless It Is Buried. To It We Pledge: You Will Not Rise; We Will Not Fall.
-    - "Within [[The Endless]] it lies, within [[The Endless]] its buried. "
+- [Fraeyda](content/PCs/Fraeyda.md) finds an oath
+    - "The Oath of the [Gatekeepers](content/Organizations/Gatekeepers.md)"
+    - Within [The Endless](content/Objects/The%20Endless.md) It Lies; Within The Endless It Is Buried. To It We Pledge: You Will Not Rise; We Will Not Fall.
+    - "Within [The Endless](content/Objects/The%20Endless.md) it lies, within [The Endless](content/Objects/The%20Endless.md) its buried. "
 - there is chronurgy magic here, potentially dialating time
-- the name on the inscription is [[Loki|Ceratos]], the same as the black blade
-- [[Markus]] has a dream sequence
+- the name on the inscription is [Ceratos](content/Gods/Loki.md), the same as the black blade
+- [Markus](content/PCs/Markus.md) has a dream sequence
     - walking through battlefield
     - sky is crimson
     - fire on horizon, far away
@@ -30,7 +30,7 @@ tags: []
     -  trips and falls into the mud
     - mud is actually bodies
     - body grabs my foot
-    - body is my mother, [[Sofia]]
+    - body is my mother, [Sofia](content/NPCs/Sofia.md)
     - "No, this is not how it happened"
-- [[Eir]] fucking wakes up this huge demon bullshit
+- [Eir](content/PCs/Eir.md) fucking wakes up this huge demon bullshit
 - "I am the right hand of the king, and he has so wanted to meet you"

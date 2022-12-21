@@ -5,4 +5,4 @@ tags: []
 
 ### Notes
 
-- Derivative of [[Deep Speech]]
+- Derivative of [Deep Speech](content/Languages/Deep%20Speech.md)

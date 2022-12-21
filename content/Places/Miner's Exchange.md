@@ -5,7 +5,7 @@ tags: []
 
 ### Notes
 
-- Store/guild in [[Berufell]]
-- Encountered [[Halea]] here
+- Store/guild in [Berufell](content/Places/Berufell.md)
+- Encountered [Halea](content/NPCs/Halea.md) here
 
 #stores #guilds
