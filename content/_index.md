@@ -3,4 +3,4 @@ title: "Viken"
 enableToc: false
 ---
 
-![[content]]
+<iframe src="https://khreezy.github.io/viken-notes-obsidian/content"></iframe>
