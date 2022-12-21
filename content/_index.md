@@ -1,5 +1,6 @@
 ---
 title: "Viken"
+tags: []
 ---
 
 - [Events](content/Events/Events.md)
