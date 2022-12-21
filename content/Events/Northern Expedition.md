@@ -1,5 +1,0 @@
----
-title: "Northern Expedition"
-tags: []
----
-

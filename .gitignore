@@ -1,2 +1,9 @@
-.obsidian/
-.idea/
+.obsidian
+.idea
+node_modules
+.yarn
+/build
+/out/
+/.next/
+
+

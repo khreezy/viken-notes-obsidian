@@ -1,0 +1,61 @@
+---
+title: "Viken Session 26"
+tags: []
+---
+
+- we colllect the crystals we need 
+- [Markus](content/PCs/Markus.md) knocks on the door in the cave
+- there is illusory magic in the room that i knocked on
+- illusory witch woman who's name is [Morwen](content/NPCs/Morwen.md)
+- [Morwen](content/NPCs/Morwen.md) is not an Elvish name, sounds more like a name of a creature from the [Feywild](content/Places/Feywild.md)
+- she knows the name Engwyn
+- [Morwen](content/NPCs/Morwen.md) made a deal with the Engwyn's once
+- i cast detect thoughts and see series of images
+- centuries ago, an Engwyn without the coloring and scales
+- [Selen Engwyn Sr.](content/NPCs/Selen%20Engwyn%20Sr..md) was the name of the Engwyn who made the deal
+- [Fraeyda](content/PCs/Fraeyda.md) asks for power that has been unattainable for any mortals, when the world was ruled by dragons
+- in exchange for [Morwen](content/NPCs/Morwen.md)'s safety and sanctuary, and a place to feed. she feeds on grief and despair
+- the [Hall of Echoes](content/Places/Hall%20of%20Echoes.md) is the place of mourning for the elves, which naturally feeds [Morwen](content/NPCs/Morwen.md)
+- [Fraeyda](content/PCs/Fraeyda.md) makes a trek deep into the heart of a swamp land, where an ancient blue dragon that is frozen in muck and time 
+- she performs a ritual to bond herself to the dragon
+- the essences of life of the dragon and [Fraeyda](content/PCs/Fraeyda.md) become one
+- she becomes cruel, greedy as opposed to her normal elven self
+- the swamp lands became her lair, changing the swamp land forever
+- her rain of terror kept [Morwen](content/NPCs/Morwen.md) fed
+- [Morwen](content/NPCs/Morwen.md) doesn't know what happened to [Fraeyda](content/PCs/Fraeyda.md)
+- eventually the reports of draconic activity diminished and went away
+- swamps are still no longer inhabited
+- the Brekka mountains, the Myrkvior woods rose around the swamp lands
+- [Damianna Ulfur](content/NPCs/Damianna%20Ulfur.md) cures [Bug](content/PCs/Bug.md)
+- she says she was not welcome in her home and came to the one place that 
+- [Damianna Ulfur](content/NPCs/Damianna%20Ulfur.md) is from [Rond](content/Places/Rond.md)
+- her hair is dyed, she's pale, her eyes are an amber color and the same as the queen's
+- she's a princess!
+- [Damianna Ulfur](content/NPCs/Damianna%20Ulfur.md) couldn't stay in [Rond](content/Places/Rond.md), she didn't know where she could go that she wouldn't be fund. 
+- 20 years ago, she struck up a friendship with an Elf that she knew from traveling
+- if [Hel](content/Gods/Hel.md) calls her, she will go where she is needed
+- the son of [Freya Úlfur](content/NPCs/Freya%20%C3%9Alfur.md) and [King Hrothgar](content/NPCs/King%20Hrothgar.md) died in the war
+- they have a daughter (presumably [Damianna Ulfur](content/NPCs/Damianna%20Ulfur.md)?)
+- the lineage of the line runs through the women
+- [Freya Úlfur](content/NPCs/Freya%20%C3%9Alfur.md) took the throne in 498 after the untimely death of [Solveig](content/NPCs/Solveig.md)
+- she was the youngest monarch
+- 2 years after she took the throne, the [Great War](content/Events/Great%20War.md) started
+- [King Hrothgar](content/NPCs/King%20Hrothgar.md) does the diplomacy and head of state stuff
+- [Daewen Ulfur](content/NPCs/Daewen%20Ulfur.md) was a young child when he was killed 
+- their daughter [Damianna Ulfur](content/NPCs/Damianna%20Ulfur.md) is still alive...and presumably [Damianna Ulfur](content/NPCs/Damianna%20Ulfur.md)? 
+- [Damianna Ulfur](content/NPCs/Damianna%20Ulfur.md) was born maybe right when the war ended or imediately following it
+- seen as a sign that the gods were smiling on the kingdom blessing them with a daughter
+- [Damianna Ulfur](content/NPCs/Damianna%20Ulfur.md) was the high priestess of the [Kingdom of Úlfurfold](content/Places/Kingdom%20of%20%C3%9Alfurfold.md), the communicator between the [Aesir](content/Organizations/Aesir.md) and the kingdom
+- 18 months ago, [Damianna Ulfur](content/NPCs/Damianna%20Ulfur.md) vanished from the public eye
+-   the people that [Damianna Ulfur](content/NPCs/Damianna%20Ulfur.md) was serving and speaking had no interest in...
+- the [Great War](content/Events/Great%20War.md) ended, but not for her mother or the gods
+- it was important that people believed the war ended 
+- before she left, she saw visions from [Hel](content/Gods/Hel.md) and the land beyond, [Niflheim](content/Places/Niflheim.md). She saw the armies of the dead, their spirits piling thousands deep. she saw fire, death, at scales unimaginable, the destruction of the world itself. 
+- she saw bodies, carcasses being consumed from the inside out
+- when she said what she had seen, they called her mad, and that she was a false prophet
+- the visions got worse, but nobody wanted to hear them. she kept saying the same things to the same people. eventually, they were going to make her stop saying them
+- the elves have listened, but they don't have spirituality so she doesn't know if they believe her.
+- [Freya Úlfur](content/NPCs/Freya%20%C3%9Alfur.md)'s response was to send troops west
+- [Damianna Ulfur](content/NPCs/Damianna%20Ulfur.md)/[Damianna Ulfur](content/NPCs/Damianna%20Ulfur.md) doesn't want the fires to burn at all
+- there's fire in the visions, so we are guessing it is [Surtur](content/Gods/Surtur.md)
+- she doesn't know if there's some level of cruelty or moral chaos that needs to be reached before something happens
