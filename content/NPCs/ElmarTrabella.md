@@ -1,5 +1,5 @@
 ---
-title: "Elmar Trabella"
+title: "ElmarTrabella"
 tags: []
 ---
 

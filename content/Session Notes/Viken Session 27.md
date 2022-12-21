@@ -6,7 +6,7 @@ tags: []
 - we meet [Fraeyda](content/PCs/Fraeyda.md)'s friend [Selphie](content/NPCs/Selphie.md), who agrees to take us into the magic school/library ([Isilme](content/Places/Isilme.md))
 - [Selphie](content/NPCs/Selphie.md) frees [Four-toe](content/NPCs/Four-toe.md) by dispelling the magic on the mall
 - [Selphie](content/NPCs/Selphie.md) says she will introduce me to [Khiiral](content/NPCs/Khiiral.md), who may be able to teach me gravity magic
-- thre's a statue of [Elmar Trabella](content/NPCs/Elmar%20Trabella.md)  in the center that is massive and gold
+- thre's a statue of [ElmarTrabella](ElmarTrabella.md)  in the center that is massive and gold
 - [Selphie](content/NPCs/Selphie.md) lets us into the library
 - [Eir](content/PCs/Eir.md) trying to find info about [Loki](content/Gods/Loki.md)
     - [Eir](content/PCs/Eir.md) finds some information about other accounts of contacts from entities from other planes, in the form of dreams, items going missing, people traveling in forests going missing without any word. any creature that has the ability to communicate across planes would be a very powerful creature
