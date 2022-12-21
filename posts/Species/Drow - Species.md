@@ -5,8 +5,8 @@ tags: []
 
 ### Notes
 - Live in the [Underdark](Underdark)
-- Concentrated populations under the [Brekka Mountains](content/Places/Brekka%20Mountains.md) and [Liat Peaks](content/Places/Liat%20Peaks.md)
+- Concentrated populations under the [Brekka Mountains](posts/Places/Brekka%20Mountains.md) and [Liat Peaks](posts/Places/Liat%20Peaks.md)
 
 ### Notable Drow
-- [Drow](content/PCs/Drow.md)
-- [Pasha](content/NPCs/Pasha.md)
+- [Drow](posts/PCs/Drow.md)
+- [Pasha](posts/NPCs/Pasha.md)

@@ -5,7 +5,7 @@ tags: []
 
 ### Notes
 
-- Found on the body of the [Mind Flayer](content/Species/Mind%20Flayer.md) the [Four Toes](content/PCs/Four%20Toes.md) killed on the roots of [Yggdrasil](content/Places/Yggdrasil.md)
+- Found on the body of the [Mind Flayer](posts/Species/Mind%20Flayer.md) the [Four Toes](posts/PCs/Four%20Toes.md) killed on the roots of [Yggdrasil](posts/Places/Yggdrasil.md)
 
 
 ### Passages

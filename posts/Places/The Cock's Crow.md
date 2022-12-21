@@ -5,7 +5,7 @@ tags: []
 
 ### Notes
 
-- Inn in [Rond](content/Places/Rond.md)
-- I believe [Bug](content/PCs/Bug.md) invented [Bug Bombs](Bug%20Bombs) here
+- Inn in [Rond](posts/Places/Rond.md)
+- I believe [Bug](posts/PCs/Bug.md) invented [Bug Bombs](Bug%20Bombs) here
 
 #inns 

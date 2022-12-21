@@ -5,6 +5,6 @@ tags: []
 
 ### Notes
 
-- School of magic in [Tel-Quessir](content/Places/Tel-Quessir.md)
+- School of magic in [Tel-Quessir](posts/Places/Tel-Quessir.md)
 
 #schools #libraries 

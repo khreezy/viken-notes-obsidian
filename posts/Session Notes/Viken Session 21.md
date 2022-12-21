@@ -5,7 +5,7 @@ tags: []
 
 Crocodile man jumps out of the sewer water [Troglodyte](Troglodyte)
 
-smells like the smell [Fraeyda](content/PCs/Fraeyda.md) was smelling
+smells like the smell [Fraeyda](posts/PCs/Fraeyda.md) was smelling
 
 rat taht bug found is in a magically protected ball
 

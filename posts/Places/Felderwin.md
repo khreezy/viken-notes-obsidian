@@ -5,11 +5,11 @@ tags: []
 
 ### Notes 
 
-- City in the [Black Sands Alliance](content/Places/Black%20Sands%20Alliance.md)
+- City in the [Black Sands Alliance](posts/Places/Black%20Sands%20Alliance.md)
  
 
 ### Notable People
 
-- [Helen Alderleaf](content/NPCs/Helen%20Alderleaf.md)
+- [Helen Alderleaf](posts/NPCs/Helen%20Alderleaf.md)
 
 #unvisited #cities 

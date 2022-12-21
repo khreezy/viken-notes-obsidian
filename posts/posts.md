@@ -1,6 +1,6 @@
 ---
-title: "Places"
-tags: []
+tags: [MOC]
+title: posts
 ---
 
 ```folder-index-content

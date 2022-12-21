@@ -5,6 +5,6 @@ tags: []
 
 ### Notes 
 
-- Bookstore in [Ifyr](content/Places/Ifyr.md)
+- Bookstore in [Ifyr](posts/Places/Ifyr.md)
 
 #stores

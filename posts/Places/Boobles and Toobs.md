@@ -4,6 +4,6 @@ tags: []
 ---
 
 ### Notes
-- Store owned by [Oscar](content/NPCs/Oscar.md) in [Rond](content/Places/Rond.md)
+- Store owned by [Oscar](posts/NPCs/Oscar.md) in [Rond](posts/Places/Rond.md)
 
 #stores #unvisited 

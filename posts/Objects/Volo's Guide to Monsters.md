@@ -4,6 +4,6 @@ tags: []
 ---
 
 ### Notes
-- Book of Monsters purchased by the [Four Toes](content/PCs/Four%20Toes.md) in [Ifyr](content/Places/Ifyr.md)
+- Book of Monsters purchased by the [Four Toes](posts/PCs/Four%20Toes.md) in [Ifyr](posts/Places/Ifyr.md)
 
 #books

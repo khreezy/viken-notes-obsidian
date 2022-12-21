@@ -1,6 +1,6 @@
 ---
-title: "content"
-tags: []
+tags: [MOC]
+title: content
 ---
 
 ```folder-index-content

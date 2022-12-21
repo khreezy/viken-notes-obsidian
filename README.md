@@ -3,7 +3,7 @@ MindStone is a free open-source alternative solution to [Obsidian Publish](https
 
 Here how it look like once published, checkout [demo version](https://mindstone.tuancao.me/) here:
 
-![](public/images/CleanShot%202022-04-20%20at%2008.34.17@2x.png)
+![[public/images/CleanShot 2022-04-20 at 08.34.17@2x.png]]
 
 This website include a published version of default Obsidian Help vault, See it in action here 
 
@@ -21,7 +21,7 @@ This website include a published version of default Obsidian Help vault, See it 
 
 Steps to run it on your local machine:
 1. Clone this [Github repo](https://github.com/TuanManhCao/digital-garden)
-2. Install [yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable) package manager 
+2. Install [[https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable]] package manager 
 3. Copy all of your **markdown** file (`.md` only) and folder to `/posts/` **except** `/posts/index.md` file
 4. Copy all of your images from your Obsidian Vault to `/public/images/` folder 
 5. Go to root folder of your project, run `yarn && yarn run dev`

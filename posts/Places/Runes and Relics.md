@@ -5,7 +5,7 @@ tags: []
 
 ### Notes
 
-- Magic store in [Rond](content/Places/Rond.md)
+- Magic store in [Rond](posts/Places/Rond.md)
 - Owned by a Fire Genasi
 
 #stores 

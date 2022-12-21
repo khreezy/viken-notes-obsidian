@@ -12,8 +12,8 @@ tags: []
     - tunnelers
     - they hunt by breathing fear spores
     - invading minds of creatures and turn against each other
-- dragon's name is [Xeldriem](content/NPCs/Xeldriem.md)
+- dragon's name is [Xeldriem](posts/NPCs/Xeldriem.md)
     - he has an agreement with the devils to not let people through to [Muspelheim](Muspelheim)
-    - we tell him the secrets we know about [Fraeyda](content/PCs/Fraeyda.md)'s mom
-- [Xeldriem](content/NPCs/Xeldriem.md) knows [Ceratos](content/Gods/Loki.md)
-    - it is an alias for [Loki](content/Gods/Loki.md)
+    - we tell him the secrets we know about [Fraeyda](posts/PCs/Fraeyda.md)'s mom
+- [Xeldriem](posts/NPCs/Xeldriem.md) knows [Ceratos](posts/Gods/Loki.md)
+    - it is an alias for [Loki](posts/Gods/Loki.md)

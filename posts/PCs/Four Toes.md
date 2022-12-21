@@ -6,8 +6,8 @@ tags: []
 ### Notes
 
 - Adventuring party consisting of 
-	- [Eir](content/PCs/Eir.md)
-	- [Bug](content/PCs/Bug.md)
-	- [Fraeyda](content/PCs/Fraeyda.md)
-	- [Markus](content/PCs/Markus.md)
-	- [Royson](content/PCs/Royson.md)
+	- [Eir](posts/PCs/Eir.md)
+	- [Bug](posts/PCs/Bug.md)
+	- [Fraeyda](posts/PCs/Fraeyda.md)
+	- [Markus](posts/PCs/Markus.md)
+	- [Royson](posts/PCs/Royson.md)

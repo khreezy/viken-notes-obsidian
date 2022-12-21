@@ -5,13 +5,13 @@ tags: []
 
 ### Notes
 
-- City in the northwest of [Viken](Viken.md) and the [Kingdom of Úlfurfold](content/Places/Kingdom%20of%20%C3%9Alfurfold.md)
-- Ruled by [Councilor Yorden Snow](content/NPCs/Councilor%20Yorden%20Snow.md)
+- City in the northwest of [Viken](Viken.md) and the [Kingdom of Úlfurfold](posts/Places/Kingdom%20of%20%C3%9Alfurfold.md)
+- Ruled by [Councilor Yorden Snow](posts/NPCs/Councilor%20Yorden%20Snow.md)
 
 ### Notable People
 
-- [Councilor Yorden Snow](content/NPCs/Councilor%20Yorden%20Snow.md)
-- [Guildmaster Royson](content/NPCs/Guildmaster%20Harold%20Royson.md)
-- [Royson](content/PCs/Royson.md)
+- [Councilor Yorden Snow](posts/NPCs/Councilor%20Yorden%20Snow.md)
+- [Guildmaster Royson](posts/NPCs/Guildmaster%20Harold%20Royson.md)
+- [Royson](posts/PCs/Royson.md)
 
 #cities #unvisited 

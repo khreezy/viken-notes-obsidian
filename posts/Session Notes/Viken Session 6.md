@@ -3,7 +3,7 @@ title: "Viken Session 6"
 tags: []
 ---
 
-When one was running away, he told us to find [Lord Albrek](content/NPCs/Lord%20Albrek.md) because he is in charge
+When one was running away, he told us to find [Lord Albrek](posts/NPCs/Lord%20Albrek.md) because he is in charge
 
 Warlock we killed was covered in black dust
 
@@ -11,4 +11,4 @@ Warlock we killed was covered in black dust
 
 curved magical dagger
 
-we tied up [Belmont](content/NPCs/Belmont.md) the warlock
+we tied up [Belmont](posts/NPCs/Belmont.md) the warlock

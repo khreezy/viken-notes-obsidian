@@ -5,5 +5,5 @@ tags: []
 
 ### Notes 
 
-- Trail we took to find the orcs we killed outside of [Berufell](content/Places/Berufell.md)
+- Trail we took to find the orcs we killed outside of [Berufell](posts/Places/Berufell.md)
 

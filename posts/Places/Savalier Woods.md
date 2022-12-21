@@ -16,7 +16,7 @@ outsiders, particularly non-magical creatures.
 
 ## Major Cities
 
-- [Tel-Quessir](content/Places/Tel-Quessir.md)
+- [Tel-Quessir](posts/Places/Tel-Quessir.md)
 
 #states #regions 
 

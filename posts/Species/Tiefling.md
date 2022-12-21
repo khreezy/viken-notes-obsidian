@@ -5,8 +5,8 @@ tags: []
 
 ### Notes 
 
-- Beings of partial [Infernal](content/Species/Infernal.md) descent
+- Beings of partial [Infernal](posts/Species/Infernal.md) descent
 
 ### Notable People
 
-- [Eir](content/PCs/Eir.md)
+- [Eir](posts/PCs/Eir.md)

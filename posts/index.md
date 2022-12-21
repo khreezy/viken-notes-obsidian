@@ -3,12 +3,12 @@ title: "Viken"
 tags: []
 ---
 
-- [Events](content/Events/Events.md)
-- [Languages](content/Languages/Languages.md)
-- [NPCs](content/NPCs/NPCs.md)
-- [Objects](content/Objects/Objects.md)
-- [Organizations](content/Organizations/Organizations.md)
-- [PCs](content/PCs/PCs.md)
-- [Places](content/Places/Places.md)
-- [Session Notes](content/Session%20Notes/Session%20Notes.md)
-- [Species](content/Species/Species.md)
+- [Events](posts/Events/Events.md)
+- [Languages](posts/Languages/Languages.md)
+- [NPCs](posts/NPCs/NPCs.md)
+- [Objects](posts/Objects/Objects.md)
+- [Organizations](posts/Organizations/Organizations.md)
+- [PCs](posts/PCs/PCs.md)
+- [Places](posts/Places/Places.md)
+- [Session Notes](posts/Session%20Notes/Session%20Notes.md)
+- [Species](posts/Species/Species.md)

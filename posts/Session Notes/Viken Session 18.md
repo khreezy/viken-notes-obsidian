@@ -3,7 +3,7 @@ title: "Viken Session 18"
 tags: []
 ---
 
-[Fraeyda](content/PCs/Fraeyda.md) was wadnering the streets and found a long streak of mud
+[Fraeyda](posts/PCs/Fraeyda.md) was wadnering the streets and found a long streak of mud
 
 investigated it and found:
 
@@ -13,6 +13,6 @@ twoish feet wide and stretches 10-15 feet down part of the road into a storm dra
 
 couldn't see anything down the drain
 
-apparently silvered weapons are not allowed in the [Kingdom of Úlfurfold](content/Places/Kingdom%20of%20%C3%9Alfurfold.md)
+apparently silvered weapons are not allowed in the [Kingdom of Úlfurfold](posts/Places/Kingdom%20of%20%C3%9Alfurfold.md)
 
 ####

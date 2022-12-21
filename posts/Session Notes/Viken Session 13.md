@@ -17,6 +17,6 @@ bottle of powdered nightshade 25g
 
 3 potions of disguise self (requires genetic material)
 
-[Ost Delanthan](content/NPCs/Ost%20Delanthan.md) is probably lying to us about what they are delivering
+[Ost Delanthan](posts/NPCs/Ost%20Delanthan.md) is probably lying to us about what they are delivering
 
-Other elves we are traveling with [Sariel](content/NPCs/Sariel.md) and [Raer](content/NPCs/Raer.md)
+Other elves we are traveling with [Sariel](posts/NPCs/Sariel.md) and [Raer](posts/NPCs/Raer.md)

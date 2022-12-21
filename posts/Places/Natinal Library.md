@@ -5,6 +5,6 @@ tags: []
 
 ### Notes
 
-- Library in [Rond](content/Places/Rond.md)
+- Library in [Rond](posts/Places/Rond.md)
 
 #libraries

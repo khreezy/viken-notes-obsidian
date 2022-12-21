@@ -4,4 +4,4 @@ tags: []
 ---
 
 ### Notes
-- One of the big trees in [Tel-Quessir](content/Places/Tel-Quessir.md)
+- One of the big trees in [Tel-Quessir](posts/Places/Tel-Quessir.md)

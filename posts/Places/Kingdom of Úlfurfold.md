@@ -43,8 +43,8 @@ for those not serving in the army.
 
 ## Major Cities
 
-- [Rond](content/Places/Rond.md)
-- [Kvikvik](content/Places/Kvikvik.md)
-- [Ifyr](content/Places/Ifyr.md)
+- [Rond](posts/Places/Rond.md)
+- [Kvikvik](posts/Places/Kvikvik.md)
+- [Ifyr](posts/Places/Ifyr.md)
 
 #states #regions 
