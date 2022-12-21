@@ -1,5 +1,5 @@
 ---
-title: "PCs"
+title: "Places"
 ---
 
 ```folder-index-content

@@ -1,5 +1,5 @@
 ---
-title: "PCs"
+title: "Gods"
 ---
 
 ```folder-index-content
