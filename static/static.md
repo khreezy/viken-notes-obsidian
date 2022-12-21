@@ -1,5 +1,5 @@
 ---
-title: "Session Notes"
+title: "static"
 ---
 
 ```folder-index-content
